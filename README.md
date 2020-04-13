@@ -132,11 +132,11 @@ Education
 -------------
 
  **Master's degree in Architecture**
-#### University of Architecture and Urbanism Ion Mincu - Bucharest
+*University of Architecture and Urbanism Ion Mincu - Bucharest*
 
 
 **Bachelor's degree in Architecture** 
-#### University of Architecture and Urbanism Ion Mincu - Bucharest
+*University of Architecture and Urbanism Ion Mincu - Bucharest*
 
 
 Awards
