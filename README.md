@@ -1,6 +1,6 @@
 ### Sasha Tanase 
 #### Product Designer
-![Sasha_Resume_S](https://user-images.githubusercontent.com/40768736/79121402-e5fb2380-7d9d-11ea-9723-e1b3fd7e2e42.png)
+![Sasha_Tanase_Resume_devcon_S](https://user-images.githubusercontent.com/40768736/79125299-a127ba80-7da6-11ea-8033-46f96a4f2d5e.png)
 <br/>
 - Sasha Tanase is Head of Design at Alethio, the Ethereum Data Analytics Platform. She comes from a background in Architecture and has applied her user-centric design passion to a career in advertising, working for companies such as DDB, McCann and Jung von Matt. Her innovative advertising designs have won her multiple awards. Now she applies her understanding of consumer behaviour and architectural design to help create brilliant user experiences for Alethio, which is a ConsenSys spoke. Always with one eye on the end-user, she is dedicated to interrogating biases and using qualitative user research to inform her design decisions.  She is never afraid of failing because as she says **" failing is an evolutionary tool "**. 
 <br/>
