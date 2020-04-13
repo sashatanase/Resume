@@ -1,4 +1,5 @@
-### Sasha Tanase 
+Sasha Tanase 
+=============
 #### Product Designer
 ![Sasha_Tanase_Resume_devcon_S](https://user-images.githubusercontent.com/40768736/79125299-a127ba80-7da6-11ea-8033-46f96a4f2d5e.png)
 <br/>
@@ -27,7 +28,7 @@ Consensys/ Alethio - Head of Design
 
 - Worked on products like Alethio Block Explorer, Alethio API, Alethio Monitoring (two versions), Alethio Design System and  other functionalities of the Ethereum Data Analytics Platform. 
 
-![Technologies Sketch](https://img.shields.io/badge/Technologies-Sketch-FF69A4.svg) ![Technologies Photoshop](https://img.shields.io/badge/Technologies-Photoshop-FF69A4.svg) ![Technologies Illustrator](https://img.shields.io/badge/Technologies-Illustrator-FF69A4.svg) ![Technologies Flinto](https://img.shields.io/badge/Technologies-Flinto-FF69A4.svg) ![Technologies inVision](https://img.shields.io/badge/Technologies-inVision-FF69A4.svg) ![Technologies Figma](https://img.shields.io/badge/Technologies-Figma-FF69A4.svg)
+![Technologies Sketch](https://img.shields.io/badge/Technologies-Sketch-FF69A4.svg)  ![Technologies Photoshop](https://img.shields.io/badge/Technologies-Photoshop-FF69A4.svg)  ![Technologies Illustrator](https://img.shields.io/badge/Technologies-Illustrator-FF69A4.svg)  ![Technologies Flinto](https://img.shields.io/badge/Technologies-Flinto-FF69A4.svg)  ![Technologies inVision](https://img.shields.io/badge/Technologies-inVision-FF69A4.svg)  ![Technologies Figma](https://img.shields.io/badge/Technologies-Figma-FF69A4.svg)
 
 Project Links
 -------------
@@ -41,7 +42,7 @@ Project Links
 [Alethio API](https://developers.aleth.io/)
 
 
-Webstyler - UX/UI Designer
+Webstyler - Senior UX/UI Designer
 -------------
 ###### January 2016 - June 2018
 
@@ -49,4 +50,30 @@ Webstyler - UX/UI Designer
 
 - Organized and  facilitated focus groups seeking to create a communicationl  bridge between the stakeholders and the users.
 
-- Conducted deep-dive interviews to help finding well-hidden insights in the 
+- Conducted deep-dive interviews to help finding well-hidden insights in the pursuit of building better suitable products for the users.
+
+- Responsible for the products from the early stages - client debriefing - to the development of User Flows, User Personas, wireframes, prototyping.
+
+- Produced High Fidelity screens and specifications for developers 
+
+- Supervised a team of two junior designers. 
+
+- Facilitated UX workshops for clients and for colleagues from ATL for a better understanding of the way digital products work
+
+- I have worked from start to end products for brands like - Coca Cola, Gandul, Renault, Dacia, MedicHub, Aptamil, GSK, Rompetrol, Petrom, Doncafe, supervised and co-ordinated the launch of Doncafe's new product BEANZ in Romania.
+
+![Technologies Photoshop](https://img.shields.io/badge/Technologies-Photoshop-FF69A4.svg)  ![Technologies Illustrator](https://img.shields.io/badge/Technologies-Illustrator-FF69A4.svg)![Technologies inVision](https://img.shields.io/badge/Technologies-inVision-FF69A4.svg)
+
+Project Links
+-------------
+
+[BEANZ cafe](https://www.beanzcafe.ro/)
+
+[Rompetrol](https://www.rompetrol.ro/)
+
+[Rompetrol Refinery](https://rompetrol-rafinare.kmginternational.com/)
+
+[Rompetrol Go App_Prototype](https://invis.io/JYMUKU8Z9ST)
+
+[Rompetrol Go AppStore](https://apps.apple.com/ro/app/rompetrol-go/id1435908007?l=ro)
+
