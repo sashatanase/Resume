@@ -42,7 +42,7 @@ Project Links
 [Alethio API](https://developers.aleth.io/)
 
 
-Webstyler - Senior UX/UI Designer
+GMP+Webstyler/Jung von Matt - Senior UX/UI Designer
 -------------
 ###### January 2016 - June 2018
 
@@ -69,11 +69,90 @@ Project Links
 
 [BEANZ cafe](https://www.beanzcafe.ro/)
 
+[Rompetrol Go App_Prototype](https://invis.io/JYMUKU8Z9ST)
+
+[Rompetrol Go AppStore](https://apps.apple.com/ro/app/rompetrol-go/id1435908007?l=ro)
+
 [Rompetrol](https://www.rompetrol.ro/)
 
 [Rompetrol Refinery](https://rompetrol-rafinare.kmginternational.com/)
 
-[Rompetrol Go App_Prototype](https://invis.io/JYMUKU8Z9ST)
+[Gandul Brexit Campaign](https://www.youtube.com/watch?v=vjmk7il7D-k&feature=youtu.be)
 
-[Rompetrol Go AppStore](https://apps.apple.com/ro/app/rompetrol-go/id1435908007?l=ro)
+
+Tribal Worldwide/DDB - UX/UI Designer and Art Director
+-------------
+###### February 2013 - January 2016
+
+- Responsible for entire McDonald's Romania entire digital presence. 
+
+- Worked to turn ideas into a real sticky digital product that users love.
+
+- Made sure the visual result of the McDonald's an Pepsi projects are optimal, appealing and clients understand and use it often.
+
+- Worked on brands like - Pepsi, Lay's, PLayboy and McDonald's.
+
+![Technologies Photoshop](https://img.shields.io/badge/Technologies-Photoshop-FF69A4.svg)  ![Technologies Illustrator](https://img.shields.io/badge/Technologies-Illustrator-FF69A4.svg)
+
+McCann Worldgroup - Art Director
+-------------
+###### August 2012 - February 2013
+
+- Responsible for digital art direction, creative concepts, execution and creative retouching for digital advertising campaigns and also ATL & BTL campaigns.
+
+- Woked on brands like - Coca Cola and Heinelen. 
+
+![Technologies Photoshop](https://img.shields.io/badge/Technologies-Photoshop-FF69A4.svg)  ![Technologies Illustrator](https://img.shields.io/badge/Technologies-Illustrator-FF69A4.svg)
+
+
+Public Speaking
+-------------
+
+### Dragon Quest Hackathon 2020 ( virtual )
+
+-  You are not your user! UX crash course
+![Talk](https://pepo.com/video/23638?utm_source=share&utm_medium=video&utm_campaign=23638)
+
+### EthCC3 Paris 2020
+
+-  That never crossed my mind! How to spot and fix you cognitive biases.
+![Talk](https://www.youtube.com/watch?v=O7ygnEtReDs)
+
+### Devcon V Osaka 2019
+
+-  Get out of your bubble! Talk to your users.
+
+### EthBerlin Zwei 2019
+
+-  Monitoring on Ethereum - Showcase of Alethio Monitoring Tool
+
+
+
+Education
+-------------
+
+## Master's degree in Architecture 
+#### University of Architecture and Urbanism Ion Mincu - Bucharest
+
+
+## Bachelor's degree in Architecture 
+#### University of Architecture and Urbanism Ion Mincu - Bucharest
+
+
+Awards
+-------------
+
+![Golden Drum 2016 Digital Websites & micro sites Silver Drum](http://www.advertolog.com/festivals-awards/golden-drum/festival-path-33110/digital/websites-micro-sites/silver-drum/)
+
+![Golden Drum 2016 Capture (use) of local spirit Capture (use) of local spirit Golden Drum](http://www.advertolog.com/festivals-awards/golden-drum/festival-path-33110/capture-use-of-local-spirit/capture-use-of-local-spirit/golden-drum//)
+
+![Effie 2017 - Media & Entertainment - GOLD Effie](http://www.effie.ro/campaigns/romanians-adopt-remainians/)
+
+![Effie 2017 - Nominee for Grand Effie](http://www.effie.ro/winners/)
+
+![AdStar 2017 - Gold for Diverse Insights](http://adstars.org/compt/xbbs/BbsView.do?_menuNo=80&pageNo=1&pageSize=10&listCount=0&bbs_id=nt_bbs_notice&ntc_id=4018&searchCl=1&searchTxt=&schTxt=)
+
+![AdStar 2017 - Gold for Public Service Advertising](http://adstars.org/compt/xbbs/BbsView.do?_menuNo=80&pageNo=1&pageSize=10&listCount=0&bbs_id=nt_bbs_notice&ntc_id=4018&searchCl=1&searchTxt=&schTxt=)
+
+
 
