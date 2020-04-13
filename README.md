@@ -2,11 +2,25 @@
 #### Product Designer
 ![Sashsa_Tanase_Resume_p_M](https://user-images.githubusercontent.com/40768736/79117420-b9daa500-7d93-11ea-902f-bfdd5f8155f4.png)
 <br/>
-##### Sasha Tanase is Head of Design at Alethio, the Ethereum Data Analytics Platform. She comes from a background in Architecture and has applied her user-centric design passion to a career in advertising, working for companies such as DDB, McCann and Jung von Matt. Her innovative advertising designs have won her multiple awards. Now she applies her understanding of consumer behaviour and architectural design to help create brilliant user experiences for Alethio, which is a ConsenSys spoke. Always with one eye on the end-user, she is dedicated to interrogating biases and using qualitative user research to inform her design decisions.
-
+- Sasha Tanase is Head of Design at Alethio, the Ethereum Data Analytics Platform. She comes from a background in Architecture and has applied her user-centric design passion to a career in advertising, working for companies such as DDB, McCann and Jung von Matt. Her innovative advertising designs have won her multiple awards. Now she applies her understanding of consumer behaviour and architectural design to help create brilliant user experiences for Alethio, which is a ConsenSys spoke. Always with one eye on the end-user, she is dedicated to interrogating biases and using qualitative user research to inform her design decisions.
+<br/>
 
 #### Experience
 
 Consensys/ Alethio
 -------------
-<br/>
+###### July 2018 - May 2019
+
+- Created a coherent and seamless experience for the main website's visitors, while giving a clear and simple journey to the potential clients of our company's tools.
+
+- Designed the experience, architecture, and interaction for several of the company's tool flows and digital services.
+
+- Responsible for user experience and user interface of the products from the incipient phase to the ready for launching phase. 
+
+- Responsible for conducting User Research Interviews, in a quest of digging deeper both in the explorative phase and also in the generative phase, using both Qualitative and Quantitative methods. 
+
+- Organized UX Workshops to align stakeholders and define problems to solve. Carried out UX activities to involve and engage a large number of players.
+
+- Created wireframes, flowcharts, and lo-fi and hi-fi prototypes.
+
+- Delivered high fidelity screens and specifications to the developers.
