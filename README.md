@@ -24,3 +24,7 @@ Consensys/ Alethio
 - Created wireframes, flowcharts, and lo-fi and hi-fi prototypes.
 
 - Delivered high fidelity screens and specifications to the developers.
+
+- Worked on products like Alethio Block Explorer, Alethio API, Alethio Monitoring (two versions), Alethio Design System and  other functionalities of the Ethereum Data Analytics Platform. 
+
+![Technologies Sketch](https://img.shields.io/badge/Technologies-Sketch-FF69A4.svg) ![Technologies Photoshop](https://img.shields.io/badge/Technologies-Photoshop-FF69A4.svg) ![Technologies Illustrator](https://img.shields.io/badge/Technologies-Illustrator-FF69A4.svg) ![Technologies Flinto](https://img.shields.io/badge/Technologies-Flinto-FF69A4.svg) ![Technologies inVision](https://img.shields.io/badge/Technologies-inVision-FF69A4.svg) ![Technologies Figma](https://img.shields.io/badge/Technologies-Figma-FF69A4.svg)
