@@ -3,7 +3,7 @@ Sasha Tanase
 #### Product Designer
 ![Sasha_Tanase_Resume_devcon_S](https://user-images.githubusercontent.com/40768736/79125299-a127ba80-7da6-11ea-8033-46f96a4f2d5e.png)
 <br/>
-- Sasha Tanase is Head of Design at Alethio, the Ethereum Data Analytics Platform. She comes from a background in Architecture and has applied her user-centric design passion to a career in advertising, working for companies such as DDB, McCann and Jung von Matt. Her innovative advertising designs have won her multiple awards. Now she applies her understanding of consumer behaviour and architectural design to help create brilliant user experiences for Alethio, which is a ConsenSys spoke. Always with one eye on the end-user, she is dedicated to interrogating biases and using qualitative user research to inform her design decisions.  She is never afraid of failing because as she says **" failing is an evolutionary tool "**. 
+- I am Sasha Tanase, Head of Design at Alethio, the Ethereum Data Analytics Platform. I come from a background in Architecture and has applied my user-centric design passion to a career in advertising, working for companies such as DDB, McCann and Jung von Matt. My innovative advertising designs have won me multiple awards. Now I apply my understanding of consumer behaviour and architectural design to help create brilliant user experiences for Alethio, which is a ConsenSys spoke. Always with one eye on the end-user, I am dedicated to interrogating biases and using qualitative user research to inform my design decisions. I am never afraid of failing because as I say **" failing is an evolutionary tool "**.
 <br/>
 
 #### Experience
@@ -126,6 +126,14 @@ Public Speaking
 
 -  Monitoring on Ethereum - Showcase of Alethio Monitoring Tool
 
+
+
+Passions
+-------------
+
+I love sci-fi books and dystopian and utopian novels and some of my favorite authors are **Philip K. Dick, Isac Asimov, Ayn Rand and Cixin Liu** I am fascinated by the Universe and its evolution and I am religiously following Hubble's reports and new photos. 
+
+I am a constantly trying to widen my views and improve my knowledge - I am terribly curious and I believe I am always on a race to find new intellectual stimuli. I admire Harvey Weinstein and other scietists who can surpass their COurse of Knowledge bias and work hard to 
 
 
 Education
