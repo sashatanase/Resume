@@ -111,11 +111,13 @@ Public Speaking
 ### Dragon Quest Hackathon 2020 ( virtual )
 
 -  You are not your user! UX crash course
+
 [Talk](https://pepo.com/video/23638?utm_source=share&utm_medium=video&utm_campaign=23638)
 
 ### EthCC3 Paris 2020
 
 -  That never crossed my mind! How to spot and fix you cognitive biases.
+
 [Talk](https://www.youtube.com/watch?v=O7ygnEtReDs)
 
 ### Devcon V Osaka 2019
@@ -140,11 +142,11 @@ Education
 -------------
 
  **Master's degree in Architecture**
-*University of Architecture and Urbanism Ion Mincu - Bucharest*
+- *University of Architecture and Urbanism Ion Mincu - Bucharest*
 
 
 **Bachelor's degree in Architecture** 
-*University of Architecture and Urbanism Ion Mincu - Bucharest*
+- *University of Architecture and Urbanism Ion Mincu - Bucharest*
 
 
 Awards
