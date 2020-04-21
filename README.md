@@ -10,7 +10,7 @@ Sasha Tanase
 
 Consensys/ Alethio - Head of Design
 -------------
-###### July 2018 - May 2019
+###### July 2018 - May 2020
 
 - Created a coherent and seamless experience for the main website's visitors, while giving a clear and simple journey to the potential clients of our company's tools.
 
@@ -135,7 +135,7 @@ Passions
 
 I love sci-fi books and dystopian and utopian novels and some of my favorite authors are **Philip K. Dick, Isac Asimov, Ayn Rand and Cixin Liu** I am fascinated by the Universe and its evolution and I am religiously following Hubble's reports and new photos. 
 
-I am a constantly trying to widen my views and improve my knowledge - I am terribly curious and I believe I am always on a race to find new intellectual stimuli. I admire Harvey Weinstein and other scietists who can surpass their COurse of Knowledge bias and work hard to 
+I am a constantly trying to widen my views and improve my knowledge - I am terribly curious and I believe I am always on a race to find new intellectual stimuli. I admire Eric Weinstein and other scientists who can surpass their Course of Knowledge bias and work hard to make themselves understood by a very diverse public.
 
 
 Education
