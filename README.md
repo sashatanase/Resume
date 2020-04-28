@@ -122,7 +122,9 @@ Public Speaking
 
 ### Devcon V Osaka 2019
 
--  Get out of your bubble! Talk to your users.
+-  Get out of your bubble! Talk to your users. with Georgia Rakusen
+
+[Talk](https://www.youtube.com/watch?v=52SP-Upd4es)
 
 ### EthBerlin Zwei 2019
 
