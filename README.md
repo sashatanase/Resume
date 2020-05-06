@@ -90,7 +90,7 @@ Tribal Worldwide/DDB - UX/UI Designer and Art Director
 
 - Made sure the visual result of the McDonald's an Pepsi projects are optimal, appealing and clients understand and use it often.
 
-- Worked on brands like - Pepsi, Lay's, PLayboy and McDonald's.
+- Worked on brands like - Pepsi, Lay's, Playboy and McDonald's.
 
 ![Technologies Photoshop](https://img.shields.io/badge/Technologies-Photoshop-FF69A4.svg)  ![Technologies Illustrator](https://img.shields.io/badge/Technologies-Illustrator-FF69A4.svg)
 
@@ -116,7 +116,7 @@ Public Speaking
 
 ### EthCC3 Paris 2020
 
--  That never crossed my mind! How to spot and fix you cognitive biases.
+-  That never crossed my mind! How to spot and fix your cognitive biases.
 
 [Talk](https://www.youtube.com/watch?v=O7ygnEtReDs)
 
