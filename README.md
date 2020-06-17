@@ -166,5 +166,12 @@ Awards
 
 [AdStar 2017 - Gold for Public Service Advertising](http://adstars.org/compt/xbbs/BbsView.do?_menuNo=80&pageNo=1&pageSize=10&listCount=0&bbs_id=nt_bbs_notice&ntc_id=4018&searchCl=1&searchTxt=&schTxt=)
 
+Let's get in touch!
+-------------
+
+phone **+40721538346**
+
+e-mail **sasha.tanase@gmail.com**
+
 
 
