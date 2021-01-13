@@ -3,10 +3,28 @@ Sasha Tanase
 #### Product Designer
 ![Sasha_Tanase_Resume_devcon_S](./static/images/avatar.png)
 <br/>
-- I am Sasha Tanase, Head of Design at Alethio, the Ethereum Data Analytics Platform. I come from a background in Architecture and has applied my user-centric design passion to a career in advertising, working for companies such as DDB, McCann and Jung von Matt. My innovative advertising designs has won me multiple awards. Now I apply my understanding of consumer behaviour and architectural design to help create brilliant user experiences for Alethio, which is a ConsenSys spoke. Always with one eye on the end-user, I am dedicated to interrogating biases and using qualitative user research to inform my design decisions. I am never afraid of failing because as I say **" failing is an evolutionary tool "**.
+- I am Sasha Tanase Senior Product Designer at SelfKey Foundation, former Head of Design at Alethio, the Ethereum Data Analytics Platform. I come from a background in Architecture and has applied my user-centric design passion to a career in advertising, working for companies such as DDB, McCann and Jung von Matt. My innovative advertising designs has won me multiple awards. Now I apply my understanding of consumer behaviour and architectural design to help create brilliant user experiences for Alethio, which is a ConsenSys spoke. Always with one eye on the end-user, I am dedicated to interrogating biases and using qualitative user research to inform my design decisions. I am never afraid of failing because as I say **" failing is an evolutionary tool "**.
 <br/>
 
 #### Experience
+
+Selfkey / KYC-chain
+---------------
+###### July 2020 - now
+
+- Improved the UX for SelfKey wallet targeting issues specific to blockchain  - improved the onboarding and wallet recovery experience by adding the option of Seed Phrase and Private Key login
+
+- Improved and helped user growth by turning the existent SelfKey Marketplace which was designed as a dependent wallet feature to an independent dApp that anyone can access. 
+
+- Worked closely with the R&D team and designed an in wallet staking feature as an extension of a governance token.
+
+-Responsible for conducting User Research Interviews, in a quest of digging deeper both in the explorative phase and also in the generative phase, using both Qualitative and Quantitative methods. 
+
+- Organized Workshops in the early stages of Product Discovery and carried out different activites to help the Product Team to shape up future features and products.
+
+- Worked on products like SelfKey Digital Identity Wallet, Selfkey Staking, SelfKey Marketplace, KeyFi DeFi Aggregator.
+
+![Technologies Figma](https://img.shields.io/badge/Technologies-Figma-FF69A4.svg) ![Technologies Dovetail](https://img.shields.io/badge/Technologies-Dovetail-FF69A4.svg) ![Technologies Photoshop](https://img.shields.io/badge/Technologies-Photoshop-FF69A4.svg)  ![Technologies Illustrator](https://img.shields.io/badge/Technologies-Illustrator-FF69A4.svg)  ![Technologies Flinto](https://img.shields.io/badge/Technologies-Flinto-FF69A4.svg)  ![Technologies inVision](https://img.shields.io/badge/Technologies-inVision-FF69A4.svg)  
 
 Consensys/ Alethio - Head of Design
 -------------
