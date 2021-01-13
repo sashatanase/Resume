@@ -18,7 +18,7 @@ Selfkey / KYC-chain
 
 - Worked closely with the R&D team and designed an in wallet staking feature as an extension of a governance token.
 
--Responsible for conducting User Research Interviews, in a quest of digging deeper both in the explorative phase and also in the generative phase, using both Qualitative and Quantitative methods. 
+- Responsible for conducting User Research Interviews, in a quest of digging deeper both in the explorative phase and also in the generative phase, using both Qualitative and Quantitative methods. 
 
 - Organized Workshops in the early stages of Product Discovery and carried out different activites to help the Product Team to shape up future features and products.
 
