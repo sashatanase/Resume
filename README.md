@@ -36,7 +36,6 @@ Selfkey / KYC-chain - Product Design and Research Lead
 
 - Worked on products like SelfKey Digital Identity Wallet, Selfkey Staking, SelfKey Marketplace, KeyFi DeFi Aggregator.
 
-![Technologies Figma](https://img.shields.io/badge/Technologies-Figma-FF69A4.svg) ![Technologies Dovetail](https://img.shields.io/badge/Technologies-Dovetail-FF69A4.svg) ![Technologies Photoshop](https://img.shields.io/badge/Technologies-Photoshop-FF69A4.svg)  ![Technologies Illustrator](https://img.shields.io/badge/Technologies-Illustrator-FF69A4.svg)  ![Technologies Flinto](https://img.shields.io/badge/Technologies-Flinto-FF69A4.svg)  ![Technologies inVision](https://img.shields.io/badge/Technologies-inVision-FF69A4.svg)  
 
 Consensys/ Alethio - Head of Design
 -------------
@@ -58,7 +57,6 @@ Consensys/ Alethio - Head of Design
 
 - Worked on products like Alethio Block Explorer, Alethio API, Alethio Monitoring (two versions), Alethio Design System and  other functionalities of the Ethereum Data Analytics Platform. 
 
-![Technologies Sketch](https://img.shields.io/badge/Technologies-Sketch-FF69A4.svg)  ![Technologies Photoshop](https://img.shields.io/badge/Technologies-Photoshop-FF69A4.svg)  ![Technologies Illustrator](https://img.shields.io/badge/Technologies-Illustrator-FF69A4.svg)  ![Technologies Flinto](https://img.shields.io/badge/Technologies-Flinto-FF69A4.svg)  ![Technologies inVision](https://img.shields.io/badge/Technologies-inVision-FF69A4.svg)  ![Technologies Figma](https://img.shields.io/badge/Technologies-Figma-FF69A4.svg)
 
 Project Links
 -------------
