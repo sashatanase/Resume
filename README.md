@@ -6,6 +6,10 @@ Sasha Tanase Luca
 - I’m Sasha Tanase Luca, a product leader who works at the intersection of discovery, research, and complex web3 systems (Ethereum and Bitcoin). I focus on finding and strengthening Product-Market Fit by digging deep into real user needs and translating those insights into clear product decisions. My work blends qualitative and quantitative research, customer value definition, and practical roadmap shaping. I’m at my best when I’m aligning teams around evidence and real data, clarifying what truly matters, and pushing for outcomes that serve both users and stakeholders. **To me, a successful product is one that balances customer needs with business goals, and proves its worth through real adoption.**
 <br/>
 
+#### Socials
+- add Twitter link
+- add Linkedin Link 
+
 #### Experience
 
 **Keep Network - Product Design and Research Lead** 
@@ -15,10 +19,6 @@ Sasha Tanase Luca
 - Ran deep discovery on Node Operator behavior and uncovered a new high-value segment: Staking Providers (B2B). This led to better documentation, clearer node-setup guides, and tighter communication on client-code updates reducing friction across the entire setup and node maintenance journey. These changes drove a 15% increase in active Node Operators and cut setup drop-offs by 30%. This was achieved through multiple validation cycles.
 - Led discovery and validation for Coverage Pools, shaping the feature set and PMF strategy. User interviews revealed that many token holders wanted a lower-risk, passive-income option with less slashing. Acting on this insight, we designed a feature that tapped into idle tokens, ultimately locking 33% of the total supply and driving stronger engagement with network security.
 - Led the end-to-end creation of Coverage Pools (before AAVE), the first feature of its kind in Ethereum DeFi at the time. Because the concept was completely new, I focused on transparency, clear guidance, and a simple 3-step mental model to help users understand how it worked. I ran deep discovery interviews and usability tests centered on learnability and recall. By the end of testing, 87% of participants accurately remembered the full 3-step flow, confirming strong comprehension of a complex new feature.
-- Prioritized the roadmap using research insights and key fit signals.
-- Worked closely with engineering to scope, write tasks, and deliver iterations.
-- Measured impact through on-chain behavior, analytics, and interviews.
-- Improved Node Operator experience through multiple validation cycles.
 
 Selfkey / KYC-chain - Product Design and Research Lead
 ---------------
