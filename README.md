@@ -3,13 +3,7 @@ Sasha Tanase Luca
 #### Product Designer
 !
 <br/>
-- I’m Sasha Tanase Luca, a product leader who works at the intersection of discovery, research, and complex web3 systems (Ethereum and Bitcoin). I focus on finding and strengthening Product-Market Fit by digging deep into real user needs and translating those insights into clear product decisions. My work blends qualitative and quantitative research, customer value definition, and practical roadmap shaping. I’m at my best when I’m aligning teams around evidence and real data, clarifying what truly matters, and pushing for outcomes that serve both users and stakeholders. To me, a successful product is one that balances customer needs with business goals, and proves its worth through real adoption.
-
-
-Senior Product Designer at SelfKey Foundation, former
-
-
-Head of Design at Alethio, the Ethereum Data Analytics Platform. I come from a background in Architecture and has applied my user-centric design passion to a career in advertising, working for companies such as DDB, McCann and Jung von Matt. My innovative advertising designs has won me multiple awards. Now I apply my understanding of consumer behaviour and architectural design to help create brilliant user experiences for Alethio, which is a ConsenSys spoke. Always with one eye on the end-user, I am dedicated to interrogating biases and using qualitative user research to inform my design decisions. I am never afraid of failing because as I say **" failing is an evolutionary tool "**.
+- I’m Sasha Tanase Luca, a product leader who works at the intersection of discovery, research, and complex web3 systems (Ethereum and Bitcoin). I focus on finding and strengthening Product-Market Fit by digging deep into real user needs and translating those insights into clear product decisions. My work blends qualitative and quantitative research, customer value definition, and practical roadmap shaping. I’m at my best when I’m aligning teams around evidence and real data, clarifying what truly matters, and pushing for outcomes that serve both users and stakeholders. **To me, a successful product is one that balances customer needs with business goals, and proves its worth through real adoption.**
 <br/>
 
 #### Experience
