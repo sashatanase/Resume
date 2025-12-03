@@ -54,4 +54,4 @@ McCann Worldgroup - Art Director
 
 - Responsible for digital art direction, creative concepts, execution and creative retouching for digital advertising campaigns and also ATL & BTL campaigns.
 
-- Woked on brands like - Coca Cola and Heinelen. 
+- Woked on brands like - Coca Cola and Heineken. 
