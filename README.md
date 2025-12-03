@@ -19,6 +19,9 @@ Sasha Tanase Luca
 - Ran deep discovery on Node Operator behavior and uncovered a new high-value segment: Staking Providers (B2B). This led to better documentation, clearer node-setup guides, and tighter communication on client-code updates reducing friction across the entire setup and node maintenance journey. These changes drove a 15% increase in active Node Operators and cut setup drop-offs by 30%. This was achieved through multiple validation cycles.
 - Led discovery and validation for Coverage Pools, shaping the feature set and PMF strategy. User interviews revealed that many token holders wanted a lower-risk, passive-income option with less slashing. Acting on this insight, we designed a feature that tapped into idle tokens, ultimately locking 33% of the total supply and driving stronger engagement with network security.
 - Led the end-to-end creation of Coverage Pools (before AAVE), the first feature of its kind in Ethereum DeFi at the time. Because the concept was completely new, I focused on transparency, clear guidance, and a simple 3-step mental model to help users understand how it worked. I ran deep discovery interviews and usability tests centered on learnability and recall. By the end of testing, 87% of participants accurately remembered the full 3-step flow, confirming strong comprehension of a complex new feature.
+- Partnered with Product Marketing on GTM launches, boosting new feature adoption by 28% within the first three months.
+
+**Core skills applied**: User Stories, User Research, Data-informed Decision Making, Systems Thinking + Information Design, Product Discovery, Analytics, Product Requirement Definition, KPI Implementation, Cross-functional Collaboration, Rapid Prototyping, Stakeholder Management.
 
 Selfkey / KYC-chain - Product Design and Research Lead
 ---------------
