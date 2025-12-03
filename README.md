@@ -69,6 +69,7 @@ Project Links
 
 [Alethio API](https://developers.aleth.io/)
 
+You can check my 6 year experience in advertising [here](https://github.com/sashatanase/Resume/blob/master/advertising_experience.md)
 
 Public Speaking
 -------------
